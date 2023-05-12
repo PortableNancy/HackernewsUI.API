@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackernewsUI.API", "Hackern
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackernewsUI.Infrastructure", "HackernewsUI.Infrastructure\HackernewsUI.Infrastructure.csproj", "{AE63130A-0BB0-4002-B351-4BD1AFCBF59C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackernewsUI.Domain", "HackernewsUI.Domain\HackernewsUI.Domain.csproj", "{3C52B04A-571E-4EED-8177-779B2FF44F7B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{AE63130A-0BB0-4002-B351-4BD1AFCBF59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE63130A-0BB0-4002-B351-4BD1AFCBF59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE63130A-0BB0-4002-B351-4BD1AFCBF59C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3C52B04A-571E-4EED-8177-779B2FF44F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C52B04A-571E-4EED-8177-779B2FF44F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C52B04A-571E-4EED-8177-779B2FF44F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C52B04A-571E-4EED-8177-779B2FF44F7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
